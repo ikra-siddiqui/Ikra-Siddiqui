@@ -1,8 +1,5 @@
 # IqraQazi
-![MasterHead](
-  https://blogger.googleusercontent.com/img/a/AVvXsEhKnMpHHkukLTOmgb1piySSgo9He9REnqmDOie_fZPvJmDN_v-mJy8M63tOC2reusd4fBDruY4yy7mLnEozHJaZh-8csxdt59MGPSvd6pvoFlijYwsUD8gf4GB-lv3780RnKp3uZXq_o2K7IIFE7KDgUQHoDXlWr4AFfOq2KSsm3qst8fyKwZWPSfX5
-)
-
+[![An image of @ikrasiddiqui's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ikrasiddiqui)](https://holopin.io/@ikrasiddiqui)
 <h1 align="center">Hi 👋, I'm Ikra</h1>
 <h3 align="center">A passionate flutter developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
@@ -17,7 +14,7 @@
 
 - ⚡ Fun fact **I think I am not funny**
 
-[![An image of @ikrasiddiqui's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ikrasiddiqui)](https://holopin.io/@ikrasiddiqui)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/iqra-siddiqui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iqra-siddiqui" height="30" width="40" /></a>
