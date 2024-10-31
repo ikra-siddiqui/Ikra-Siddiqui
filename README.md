@@ -6,13 +6,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikra-siddiqui&label=Profile%20views&color=0e75b6&style=flat" alt="ikra-siddiqui" /> </p>
 
 
-- 🔭 I’m currently working on [Food As Mood project](https://github.com/ikra-siddiqui/FoodAsMood)
+- 🔭 I’m currently working on [Portfolio]()
 -
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Android**
 
 - 📫 How to reach me **siddiquiiqrasidd@gmail.com**
 
-- ⚡ Fun fact **I think I am not funny**
+- ⚡ Fun fact **I always looking for new challenges and ways to improve!**
 
 
 <h3 align="left">Connect with me:</h3>
